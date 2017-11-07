@@ -1,6 +1,6 @@
 {
   "name": "@ng-dynamic-forms/ui-basic",
-  "version": "1.4.34",
+  "version": "1.4.35",
   "description": "Basic UI package for NG Dynamic Forms",
   "main": "./bundles/ui-basic.umd.js",
   "module": "./@ng-dynamic-forms/ui-basic.es.js",

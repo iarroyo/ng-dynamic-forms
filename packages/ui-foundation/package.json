@@ -1,6 +1,6 @@
 {
   "name": "@ng-dynamic-forms/ui-foundation",
-  "version": "1.4.34",
+  "version": "1.4.35",
   "description": "Foundation UI package for NG Dynamic Forms",
   "main": "./bundles/ui-foundation.umd.js",
   "module": "./@ng-dynamic-forms/ui-foundation.es.js",

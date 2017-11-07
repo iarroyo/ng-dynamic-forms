@@ -143,6 +143,7 @@
                 (change)="onValueChange($event)"
                 (focus)="onFocusEvent($event)">
 
+            <option *ngIf="!group.value.select" [ngValue]="null" selected></option>
             <option *ngFor="let option of model.options$ | async"
                     [attr.name]="model.name"
                     [disabled]="!!option.disabled"

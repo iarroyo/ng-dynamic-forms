@@ -1,6 +1,6 @@
 {
   "name": "@ng-dynamic-forms/ui-bootstrap",
-  "version": "1.4.34",
+  "version": "1.4.35",
   "description": "Bootstrap UI package for NG Dynamic Forms",
   "main": "./bundles/ui-bootstrap.umd.js",
   "module": "./@ng-dynamic-forms/ui-bootstrap.es.js",
